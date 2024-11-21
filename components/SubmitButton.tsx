@@ -24,7 +24,7 @@ const SubmitButton = ({ isLoading, className, children }) => {
             height={24}
             className="animate-spin"
           />
-          Loading ...
+          Loading...
         </div>
       ) : (
         children
